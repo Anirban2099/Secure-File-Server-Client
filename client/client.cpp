@@ -1,4 +1,3 @@
-// --- client/client.cpp (Uncommented Windows Client) ---
 #include <iostream>
 #include <string>
 #include <cstring>
