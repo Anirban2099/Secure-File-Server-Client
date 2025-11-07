@@ -8,9 +8,10 @@
 #include <ws2tcpip.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-
 #define PORT 8080
 #define BUFFER_SIZE 4096
+
+//code
 
 const std::string XOR_KEY = "mysecretkey";
 
